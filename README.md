@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Diner Restaurant Website
+
+Created by [Evelyn Bennett](https://www.evbennett.com)
