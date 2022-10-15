@@ -33,7 +33,7 @@ export function Footer() {
   return (
     <footer>
       <div className="flex flex-row justify-center pt-5 pb-2">
-        ***this is not affiliated with any brand or corporation and the source
+        ***this is not affiliated with any brand or corporation and the <a href="https://github.com/evb2337/diner-website">source</a>
         is under an MIT license.***
       </div>
       <div className="flex flex-row justify-center space-x-20 md:space-x-40 plain-font text-lg ">
