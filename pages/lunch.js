@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { NavBar } from ".";
+import { NavBar, Footer } from ".";
 
 export default function Lunch() {
   return (
